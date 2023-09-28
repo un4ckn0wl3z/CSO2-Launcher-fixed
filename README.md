@@ -9,4 +9,4 @@ Fixed:
 - Remove launcher alert if RAdmin not already install
 
 How to install
-- Copy/Replace all files to \Bin folder
+- Copy/Replace all files in \Bin folder
